@@ -1,2 +1,2 @@
 # khanh.github.io
-Deno Weather App
+Demo Weather App
